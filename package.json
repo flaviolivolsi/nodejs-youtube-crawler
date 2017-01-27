@@ -1,0 +1,29 @@
+{
+  "name": "youtube-crawl",
+  "version": "0.0.1",
+  "description": "Node.js YouTube crawler without API key usage",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flaviolivolsi/nodejs-youtube-crawler.git"
+  },
+  "keywords": [
+    "youtube",
+    "finder",
+    "crawler",
+    "promise"
+  ],
+  "author": "Flavio Li Volsi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/flaviolivolsi/nodejs-youtube-crawler/issues"
+  },
+  "homepage": "https://github.com/flaviolivolsi/nodejs-youtube-crawler#readme",
+  "dependencies": {
+    "bluebird": "^3.4.7",
+    "cheerio": "^0.22.0"
+  }
+}
