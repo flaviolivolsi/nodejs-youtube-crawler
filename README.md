@@ -1,6 +1,6 @@
 ## youtube-crawl
 
-YouTube crawler with promise.
+YouTube crawler node module with promise.
 
 ### Usage
 ```javascript
